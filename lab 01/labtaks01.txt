@@ -1,0 +1,27 @@
+<products>
+    <product>
+       <id="11"<id>  <id="11"<id>
+        <name> samsung </name>
+        <unti price <35000</unti price>
+        <stock<50</stock>
+        <status<1</status>
+        </product>
+<product>
+    
+        <id="20"<id>
+        <name> htc </name>
+        <unti price <65300</unti price>
+        <stock<35</stock>
+        <status<0</status>
+         </product>
+         </products>
+
+<product>
+    
+       <id="23"<id>
+        <name> nokia/name>
+        <unti price <25100/unti price>
+        <stock<100</stock>
+        <status<1</status>
+         </product>
+         </products>
