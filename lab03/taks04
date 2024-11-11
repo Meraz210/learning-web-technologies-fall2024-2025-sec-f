@@ -1,0 +1,38 @@
+?>php
+$ 1st number =11;
+
+$ 2nd number =13;
+
+$ 3rd number = 14;
+
+ $ max number =max  ($1stnumber,$ 2nd number ,$3rd number );
+echo "The largest number of givrn three : $maxNumber\n";
+
+?> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

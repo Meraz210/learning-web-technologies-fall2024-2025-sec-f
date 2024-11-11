@@ -1,0 +1,19 @@
+<?php
+
+
+
+ $ length = 8 ;
+ $ width  =12 ;
+ $ area = $length  * $ width ;
+ $ preimeter = 2*($length+ $ width);
+
+ echo" Area: $ area<br>";
+
+
+ each: "preimeter :$ preimeter<br>";
+
+
+ 
+ ?>
+
+  
